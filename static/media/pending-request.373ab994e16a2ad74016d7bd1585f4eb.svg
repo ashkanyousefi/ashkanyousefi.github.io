@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250" height="250" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .svg-elem { fill: transparent; }
+
+    .svg-elem-1 { animation: fillAnim 2.5s ease-in-out 0.0s infinite alternate; }
+    .svg-elem-2 { animation: fillAnim 2.5s ease-in-out 0.2s infinite alternate; }
+    .svg-elem-3 { animation: fillAnim 2.5s ease-in-out 0.4s infinite alternate; }
+    .svg-elem-4 { animation: fillAnim 2.5s ease-in-out 0.6s infinite alternate; }
+    .svg-elem-5 { animation: fillAnim 2.5s ease-in-out 0.8s infinite alternate; }
+    .svg-elem-6 { animation: fillAnim 2.5s ease-in-out 1.0s infinite alternate; }
+    .svg-elem-7 { animation: fillAnim 2.5s ease-in-out 1.2s infinite alternate; }
+    .svg-elem-8 { animation: fillAnim 2.5s ease-in-out 1.4s infinite alternate; }
+    .svg-elem-9 { animation: fillAnim 2.5s ease-in-out 1.6s infinite alternate; }
+
+    @keyframes fillAnim {
+      0%   { fill: transparent; }
+      100% { fill: #141718; }
+    }
+  </style>
+
+  <path d="M2 10H9.41759V37.9998H2V10Z" class="svg-elem svg-elem-1"/>
+  <path d="M27.2201 10V17.6363H9.41781L9.41759 10H27.2201Z" class="svg-elem svg-elem-2"/>
+  <path d="M37.1101 23.9996C37.1101 26.1083 35.4496 27.8178 33.4013 27.8178C31.3529 27.8178 29.6925 26.1083 29.6925 23.9996C29.6925 21.8909 31.3529 20.1814 33.4013 20.1814C35.4496 20.1814 37.1101 21.8909 37.1101 23.9996Z" class="svg-elem svg-elem-3"/>
+  <path d="M47 13.8181C47 15.9269 45.3395 17.6363 43.2912 17.6363C41.2429 17.6363 39.5823 15.9269 39.5823 13.8181C39.5823 11.7094 41.2429 10 43.2912 10C45.3395 10 47 11.7094 47 13.8181Z" class="svg-elem svg-elem-4"/>
+  <path d="M47 23.9996C47 26.1083 45.3395 27.8178 43.2912 27.8178C41.2429 27.8178 39.5823 26.1083 39.5823 23.9996C39.5823 21.8909 41.2429 20.1814 43.2912 20.1814C45.3395 20.1814 47 21.8909 47 23.9996Z" class="svg-elem svg-elem-5"/>
+  <path d="M47 34.1818C47 36.2906 45.3395 38 43.2912 38C41.2429 38 39.5823 36.2906 39.5823 34.1818C39.5823 32.0731 41.2429 30.3637 43.2912 30.3637C45.3395 30.3637 47 32.0731 47 34.1818Z" class="svg-elem svg-elem-6"/>
+  <path d="M37.1101 34.1818C37.1101 36.2906 35.4496 38 33.4013 38C31.3529 38 29.6925 36.2906 29.6925 34.1818C29.6925 32.0731 31.3529 30.3637 33.4013 30.3637C35.4496 30.3637 37.1101 32.0731 37.1101 34.1818Z" class="svg-elem svg-elem-7"/>
+  <path d="M27.2202 34.1818C27.2202 36.2906 25.5597 38 23.5114 38C21.4631 38 19.8026 36.2906 19.8026 34.1818C19.8026 32.0731 21.4631 30.3637 23.5114 30.3637C25.5597 30.3637 27.2202 32.0731 27.2202 34.1818Z" class="svg-elem svg-elem-8"/>
+  <path d="M19.8025 20.1814V27.8178H9.41781V20.1814H19.8025Z" class="svg-elem svg-elem-9"/>
+</svg>
