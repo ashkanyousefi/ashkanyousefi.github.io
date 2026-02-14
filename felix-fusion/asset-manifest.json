@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/felix-fusion/static/css/main.e233ccda.css",
+    "main.js": "/felix-fusion/static/js/main.7835d895.js",
+    "static/js/687.bb7d9c7e.chunk.js": "/felix-fusion/static/js/687.bb7d9c7e.chunk.js",
+    "static/js/453.2417136f.chunk.js": "/felix-fusion/static/js/453.2417136f.chunk.js",
+    "static/js/232.214a0707.chunk.js": "/felix-fusion/static/js/232.214a0707.chunk.js",
+    "static/media/pending-request.svg": "/felix-fusion/static/media/pending-request.373ab994e16a2ad74016d7bd1585f4eb.svg",
+    "index.html": "/felix-fusion/index.html",
+    "main.e233ccda.css.map": "/felix-fusion/static/css/main.e233ccda.css.map",
+    "main.7835d895.js.map": "/felix-fusion/static/js/main.7835d895.js.map",
+    "687.bb7d9c7e.chunk.js.map": "/felix-fusion/static/js/687.bb7d9c7e.chunk.js.map",
+    "453.2417136f.chunk.js.map": "/felix-fusion/static/js/453.2417136f.chunk.js.map",
+    "232.214a0707.chunk.js.map": "/felix-fusion/static/js/232.214a0707.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e233ccda.css",
+    "static/js/main.7835d895.js"
+  ]
+}
